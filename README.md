@@ -1,3 +1,6 @@
+(This forked site hosted at https://29021.github.io/3kh0-lite/)
+
+_original readme as follows;_
 # 3kh0 *lite*
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/3kh0/3kh0-lite?style=flat&label=Repo%20size)
